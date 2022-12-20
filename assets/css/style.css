@@ -197,7 +197,8 @@ h6 {
   padding: 7px 25px 8px 25px;
   white-space: nowrap;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 16px;
+  font-weight: bold;
   display: inline-block;
   border: 2px solid #ffc451;
 }
